@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../NER/CorefQA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../NER/TriggerNER" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../NER/joint-ner-and-re" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../NER/mrc-for-flat-nested-ner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../NER/pytorch_lstmcrf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../NER/scierc" vcs="Git" />
+  </component>
+</project>

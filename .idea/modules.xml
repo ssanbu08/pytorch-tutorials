@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../NER/CorefQA/.idea/CorefQA.iml" filepath="$PROJECT_DIR$/../NER/CorefQA/.idea/CorefQA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NER/TriggerNER/.idea/TriggerNER.iml" filepath="$PROJECT_DIR$/../NER/TriggerNER/.idea/TriggerNER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NER/joint-ner-and-re/.idea/joint-ner-and-re.iml" filepath="$PROJECT_DIR$/../NER/joint-ner-and-re/.idea/joint-ner-and-re.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NER/mrc-for-flat-nested-ner/.idea/mrc-for-flat-nested-ner.iml" filepath="$PROJECT_DIR$/../NER/mrc-for-flat-nested-ner/.idea/mrc-for-flat-nested-ner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pytorch.iml" filepath="$PROJECT_DIR$/.idea/pytorch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NER/pytorch_lstmcrf/.idea/pytorch_lstmcrf.iml" filepath="$PROJECT_DIR$/../NER/pytorch_lstmcrf/.idea/pytorch_lstmcrf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NER/scierc/.idea/scierc.iml" filepath="$PROJECT_DIR$/../NER/scierc/.idea/scierc.iml" />
+    </modules>
+  </component>
+</project>
